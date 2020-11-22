@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- __Pei-Wei Chen__, Yu-Ching Huang, Cheng-Lin Lee, Jie-Hong Roland Jiang,
+"Circuit Learning on High Dimensional Boolean Space",
+in _Proc. of ACM/IEEE Design Automation Conference (DAC-20)_
