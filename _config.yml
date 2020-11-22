@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Pei-Wei Chen"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : "Pei-Wei Chen"
 description              : &description "personal description"
 url                      : https://perry0513.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,13 +81,16 @@ analytics:
 # Site Author
 author:
   name             : "Pei-Wei Chen"
-  avatar           : "profile.jpg"
-  bio              : "Undergraduate at NTUEE\nApplying for Fall'21 graduate school"
-  location         :
+  avatar           : "profile.png"
+  bio              : "Undergraduate at NTUEE\nApplying for Fall'21 grad school"
+  location         : "Taipei, Taiwan"
+  email            : "perrypeiweichen@gmail.com"
+  CV               : "/files/CV.pdf"
+  github           : "perry0513"
+  linkedin         : "perry0513"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "perrypeiweichen@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +99,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "perry0513"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "perry0513"
   orcid            :
   pinterest        :
   soundcloud       :
