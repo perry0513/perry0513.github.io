@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pei-Wei Perry Chen"
+title                    : "Pei-Wei Chen"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pei-Wei Perry Chen"
+  name             : "Pei-Wei Chen"
   avatar           : "profile.png"
-  bio              : "Undergraduate at NTUEE"
+  bio              : "Undergraduate at NTUEE\nApplying for Fall 2021 graduate school"
   location         :
   employer         :
   pubmed           :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "perry0513"
   orcid            :
   pinterest        :
   soundcloud       :
