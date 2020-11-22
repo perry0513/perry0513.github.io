@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at [NTUEE](https://web.ee.ntu.edu.tw/eng/index.php), and will be obtaining my B.S. degree in Jan. 2021.
+I am an undergraduate student at [NTUEE](https://web.ee.ntu.edu.tw/eng/index.php), and will be obtaining my B.S. degree in Janaury 2021.
 I am currently applying for Fall 2021 graduate schools.
 
 During my undergraduate, I worked with [Prof. Jie-Hong Roland Jiang](http://cc.ee.ntu.edu.tw/~jhjiang/) and [Prof. Yao-Wen Chang](http://cc.ee.ntu.edu.tw/~ywchang/) on decision procedures and electronic design automation.
