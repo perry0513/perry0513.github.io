@@ -245,15 +245,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _extracurrirulars
-  - scope:
-      path: ""
-      type: extracurrirulars
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
 
 # Sass/SCSS
 sass:
