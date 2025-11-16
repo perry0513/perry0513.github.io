@@ -1,6 +1,5 @@
 ---
-title: Passed Qualifying Exam
-date: 02/2023
+title: Passed my Qualifying Exam!
+date: 05/2025
 ---
 
-Check out my slides [here](https://federico.morarocha.ca/quals/).
