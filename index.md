@@ -18,7 +18,7 @@ I completed my Bachelor's degree in Electrical Engineering at [National Taiwan U
 My PhD research mainly lies in [formal methods](https://en.wikipedia.org/wiki/Formal_methods), [automated reasoning](https://en.wikipedia.org/wiki/Automated_reasoning), and neuro-symbolic approaches for them.
 During my undergrad I focused on [Electronic Design Automation (EDA)](https://en.wikipedia.org/wiki/Electronic_design_automation) and automated reasononing.
 
-Here is my [CV]() and [Google Scholar](https://scholar.google.com/citations?user=Dag0G5AAAAAJ&hl=en). You can reach me at [pwchen@berkeley.edu](mailto:pwchen@berkeley.edu).
+Here is my [CV](assets/cv.pdf) and [Google Scholar](https://scholar.google.com/citations?user=Dag0G5AAAAAJ&hl=en). You can reach me at [pwchen@berkeley.edu](mailto:pwchen@berkeley.edu).
 
 
 # News
