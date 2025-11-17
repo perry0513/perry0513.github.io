@@ -1,8 +1,6 @@
 ---
 author: "Pei-Wei Chen"
 icon: "images/favicon.svg"
-counter: |
-    <script data-goatcounter="https://federicoaureliano.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 news: posts
 papers: main.bib
 headshot: images/peiwei.jpeg
